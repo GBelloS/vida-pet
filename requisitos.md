@@ -26,4 +26,4 @@
 - **RF**: registrar observação da consulta
 - **RNF**: a realização e observação da consulta são interdependentes
 
-- **RF**: mostrar aviso
+- **RF**: avisar erro
