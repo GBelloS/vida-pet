@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kurogiwa\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\desktob5\\Desktob3\\Estudo\\Infnet\\bloco 3\\projeto\\tp1\\VidaPet\\VidaPet.csproj",
+      "projectUniqueName": "C:\\Users\\User\\projeto-do-aly\\ProjetodeBlocoC++++\\vida-pet\\VidaPet\\VidaPet.csproj",
       "projectName": "VidaPet",
-      "projectPath": "E:\\Desktop\\desktob5\\Desktob3\\Estudo\\Infnet\\bloco 3\\projeto\\tp1\\VidaPet\\VidaPet.csproj",
-      "packagesPath": "C:\\Users\\Kurogiwa\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\desktob5\\Desktob3\\Estudo\\Infnet\\bloco 3\\projeto\\tp1\\VidaPet\\obj\\",
+      "projectPath": "C:\\Users\\User\\projeto-do-aly\\ProjetodeBlocoC++++\\vida-pet\\VidaPet\\VidaPet.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\projeto-do-aly\\ProjetodeBlocoC++++\\vida-pet\\VidaPet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kurogiwa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
