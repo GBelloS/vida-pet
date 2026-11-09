@@ -34,7 +34,7 @@ A VidaPet é uma clínica veterinária pequena que atende cães e gatos. Hoje a 
 - **RF05**: Consultar agenda.
 - **RF06**: Registrar realização da consulta.
 - **RF07**: Registrar observação da consulta.
-- **RF08**: Mostrar aviso.
+- **RF08**: Avisar erro.
 
 ### Requisitos Não Funcionais
 
